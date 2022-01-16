@@ -1,26 +1,23 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Air Québec
+title: Air Québec | Qualité de l'air
+description: Project sur la qualité de l'air à la ville de Québec
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - aqi
+  - science
+  - recherche
 show_hero: true
 menu:
-  - title: Home
+  - title: Accueil
     url: /
-  - title: About
+  - title: À propos
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
+  - title: Publications
     url: /feed.xml
-email: youremail@test.com
+email: air@drave.dev
 # See: https://disqus.com/
-disqus_username: disqus_username
+#disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xgedoagy

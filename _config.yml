@@ -1,17 +1,14 @@
 # Site Settings
 name: Air Québec
-title: Air Québec | site sur la qualité de l'air à la Ville de Québec
-description: Air Québec est un regroupement pour la qualité de l'air de Québec
+title: Air Québec | Qualité de l'air
+description: Project sur la qualité de l'air à la ville de Québec
 tags:
   - aqi
-  - vdq
-  - ville
-  - pollution
   - science
-  - mesure
+  - recherche
 show_hero: true
 menu:
-  - title: Principale
+  - title: Accueil
     url: /
   - title: À propos
     url: /about
@@ -21,20 +18,15 @@ menu:
     url: /feed.xml
 email: air@drave.dev
 # See: https://disqus.com/
-disqus_username: disqus_username
+#disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xgedoagy
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: airquebec-org
-# facebook_username: facebook_username
-# twitter_username: twitter_username
-# instagram_username: instagram_username
-# linkedin_username: linkedin_username
-# medium_username: medium_username
 
 
 # Posts Settings
@@ -46,9 +38,9 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.airquebec.org" # the base hostname & protocol for your site
-google_analytics: "G-3DPCK724MP"
-language: "fr"
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
